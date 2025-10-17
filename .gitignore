@@ -218,5 +218,5 @@ __marimo__/
 .idea
 venv 
 .venv
-financial_data.csv
+financial.csv
 prolongations.csv 
